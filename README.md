@@ -32,3 +32,10 @@ There are currently 7 unique bodies, 2 hands, 10 heads, 10 eyes 2 features and 4
 To change the rarity of these characteristics, you need to adjust the name of the individual layer files. See hashlips_art_engine readme file for more information on the naming convention. 
 
 Hope you enjoy minting your own Skater Punk!
+
+Powerpoint Presentation
+https://docs.google.com/presentation/d/1UdPzVsDf1rlTXoK0Okeb8xxB1NwrGXjyVZXrnu8QD-8/edit#slide=id.p
+
+Skater Punks Website:
+https://skater-punks.herokuapp.com/
+
